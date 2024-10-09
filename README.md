@@ -2,7 +2,7 @@
 
 ### DFS
 
-``python
+<code-block lang="python">
 
 def dfs(G,start, visited=None):
     if visited is None:
@@ -19,4 +19,4 @@ def dfs(G,start, visited=None):
 
 dfs(graph, '0')
         
-``
+<code-block>
